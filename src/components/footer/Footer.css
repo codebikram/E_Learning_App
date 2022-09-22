@@ -1,0 +1,13 @@
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+p {
+  padding: 20px 30px;
+  font-size: 13px;
+  color: #5e5e5e;
+}
+.chat {
+  color: #00aeef;
+}

@@ -1,0 +1,17 @@
+.main {
+  min-height: 100vh;
+}
+
+.img-section {
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.img-logo {
+  width: 500px;
+}
+.body-section {
+  display: flex;
+  justify-content: center !important;
+  align-items: center;
+}

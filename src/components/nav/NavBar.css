@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #fff !important;
+}
+.navbar-nav {
+  padding: 15px 0;
+  margin-left: auto;
+}
+.nav-link {
+  color: #626262 !important;
+  font-size: 14px;
+  margin-right: 20px;
+  text-transform: uppercase;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+}
+.active {
+  color: #0d3563 !important;
+  font-weight: bold;
+}
+.btn-close {
+  display: none;
+}
+.nav-float {
+  z-index: 1;
+  position: absolute;
+  top: 50px;
+  height: auto;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+}
